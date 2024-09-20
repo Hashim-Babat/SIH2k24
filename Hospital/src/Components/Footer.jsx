@@ -38,7 +38,7 @@ const Footer = () => {
               <FaMapMarkerAlt className="mr-2 text-lg" />
               <h2 className="text-md font-semibold">Address</h2>
             </div>
-            <p className="ml-6">National Informatic centre, GaneshKhind rd,<br/> Pune-411001,<br/>India</p>
+            <p className="ml-6">National Informatic centre,<br/> Pune-411001,<br/>India</p>
           </div>
         </div>
 
